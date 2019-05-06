@@ -134,7 +134,7 @@ renderer.render( scene, camera )
 }
 
 const addHandlers = function () {
-  render()
+  render()l
 }
 
 module.exports = {
